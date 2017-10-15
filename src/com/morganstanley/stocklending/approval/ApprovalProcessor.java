@@ -16,6 +16,9 @@ import java.util.logging.Logger;
  * <li>{@link #FAILED}</li>
  * 
  * @author Richard Wu
+ *
+ * change line 1
+ * change line 2
  */
 enum ResponseServiceStatus {
 	SUCCEED, FAILED
@@ -29,7 +32,8 @@ enum ResponseServiceStatus {
  * ApprovalSource, passing to ApprovalDecisionService which will return an
  * ApprovalResponse, and finally every ApprovalResponse must be passed on to the
  * ApprovalResponseService
- * 
+ *
+ * Change here
  */
 public class ApprovalProcessor {
 	/**
