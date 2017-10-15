@@ -20,6 +20,8 @@ import java.util.logging.Logger;
  * change line 1
  * change line 4
  * change line 2
+ *
+ * change (ver3)
  */
 enum ResponseServiceStatus {
 	SUCCEED, FAILED
