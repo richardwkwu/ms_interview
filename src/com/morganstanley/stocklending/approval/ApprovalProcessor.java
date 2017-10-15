@@ -28,6 +28,8 @@ import java.util.logging.Logger;
  *
  * change lien 4 (readyprod)
  * change ling 5 (readyprod)
+ *
+ * readyprod3
  */
 enum ResponseServiceStatus {
 	SUCCEED, FAILED
