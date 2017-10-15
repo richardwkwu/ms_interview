@@ -19,6 +19,9 @@ import java.util.logging.Logger;
  *
  * change line 1
  * change line 2
+ *
+ * change lien 4 (readyprod)
+ * change ling 5 (readyprod)
  */
 enum ResponseServiceStatus {
 	SUCCEED, FAILED
