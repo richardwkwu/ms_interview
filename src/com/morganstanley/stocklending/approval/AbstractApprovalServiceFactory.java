@@ -1,6 +1,8 @@
 package com.morganstanley.stocklending.approval;
 /*a new comment*/
 /*master change comment*/
+
+/*master amment*/
 /**
  * AbstractApprovalServiceFactory is an abstract class to get factories for
  * ApprovalDecisionService and ApprovalResponseService
